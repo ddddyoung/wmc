@@ -69,5 +69,4 @@ where is my car
 8.
 
 계획 발표자료: [캡스톤 ppt 계획발표.pptx](https://github.com/ddddyoung/wmc/files/9018282/ppt.pptx)
-
- 
+중간 발표자료: [PPT5.pptx](https://github.com/ddddyoung/wmc/files/9018307/PPT5.pptx)
