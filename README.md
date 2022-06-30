@@ -17,7 +17,7 @@ where is my car
 -김도은,tyuihjk15598@naver.com,자료조사와 실물제작
 -이영선,e0sunee882@gmail.com,발표자료제작
 -이수빈,dfox0505@naver.com,앱 개발
-사진 이름 이메일 여갈
+
 
 3. 사용 기술
 - 개발에 사용한 기술
