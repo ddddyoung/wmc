@@ -26,7 +26,7 @@
 
 <p style= "font-size:18px; font-weight:bold;";>4. 수행 추진 일정 제작 배경 및 필요성 조사 유사 시제품 조사 필요 기술 조사 -> <계획 발표></br></p>
 <p>아두이노 회로설계 어플리케이션 화면 구글맵 구현 아두이노 센서 구현(스피커, GPS) -> <중간 발표></p>
-안드로이드 스튜디오 폼 제장 앱 디자인 아두이노 센서 구현(충격센서, 카메라모듈) 차량 모니터링 구현 실물 제작 아두이노&안드로이드 스튜디오 결합 및 동작 -> <최종 발표>
+<p>안드로이드 스튜디오 폼 제장 앱 디자인 아두이노 센서 구현(충격센서, 카메라모듈) 차량 모니터링 구현 실물 제작 아두이노&안드로이드 스튜디오 결합 및 동작 -> <최종 발표></p>
 
 
 
@@ -36,7 +36,7 @@
 ![KakaoTalk_20220630_173422338](https://user-images.githubusercontent.com/102715716/176637554-e49cff9b-25d9-41ea-bcbb-6db2a03f3bae.jpg)
 ![KakaoTalk_20220630_173424220](https://user-images.githubusercontent.com/102715716/176637658-3d5a586b-2dd2-476b-8b5f-2cf2909347ac.jpg)
 ![KakaoTalk_20220630_173426010](https://user-images.githubusercontent.com/102715716/176637667-35c35b7e-adb6-4662-b89e-c8524e68bcf9.jpg)
-![KakaoTalk_20220630_180008942](https://user-images.githubusercontent.com/102715716/176637692-ac809f0c-23cf-4c0d-a90c-63435a3d0343.jpg)<br>
+![KakaoTalk_20220630_180008942](https://user-images.githubusercontent.com/102715716/176637692-ac809f0c-23cf-4c0d-a90c-63435a3d0343.jpg)<br><br>
 
 <p style= "font-size:18px; font-weight:bold;";>6. 사용자 수행 흐름도<br></p>
 <사용자>
