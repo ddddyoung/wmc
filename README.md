@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
 </head>
 <body>
     <p><span style="border-bottom: 10px solid #dcf1fb; padding: 0 0 0 0.5em; font-size:35px; font-weight:bold;">where is my car&nbsp&nbsp</span></p>
