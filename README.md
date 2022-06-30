@@ -61,3 +61,13 @@ where is my car
 보다 편리하게 찾도록 해줌
 차량 손상 알림 -> 차량에 설치된 아두이노 충격센서에서 차량의 충격을 감지하면 사용자에 휴대전화로 
 충격 여부를 전송함
+
+
+7.
+
+
+8.
+
+계획 발표자료: [캡스톤 ppt 계획발표.pptx](https://github.com/ddddyoung/wmc/files/9018282/ppt.pptx)
+
+ 
