@@ -28,25 +28,16 @@
 <p>아두이노 회로설계 어플리케이션 화면 구글맵 구현 아두이노 센서 구현(스피커, GPS) -> <중간 발표></p>
 안드로이드 스튜디오 폼 제장 앱 디자인 아두이노 센서 구현(충격센서, 카메라모듈) 차량 모니터링 구현 실물 제작 아두이노&안드로이드 스튜디오 결합 및 동작 -> <최종 발표>
 
-<p style= "font-size:18px; font-weight:bold;";>6. 사용자 수행 흐름도<br></p>
-<사용자>
-차량 위치 확인 -> 차량에 부착한 GPS 모듈로 차량 위치를 확보하고 사용자의 휴대전화에 위치를 
-파악하여 두 객체의 위치를 구글맵에 마커로 띄워 사용자에게 보여줌으로서 사용자가 차량의 위치를
-보다 편리하게 찾도록 해줌
-차량 손상 알림 -> 차량에 설치된 아두이노 충격센서에서 차량의 충격을 감지하면 사용자에 휴대전화로 
-충격 여부를 전송함
 
-5.
+
+<p style= "font-size:18px; font-weight:bold;";>5. <br></p>
 ![KakaoTalk_20220630_173420409](https://user-images.githubusercontent.com/102715716/176637442-66d36f3d-a4dd-45b7-b6a0-db752004c153.jpg)
 ![KakaoTalk_20220630_173422338](https://user-images.githubusercontent.com/102715716/176637554-e49cff9b-25d9-41ea-bcbb-6db2a03f3bae.jpg)
 ![KakaoTalk_20220630_173424220](https://user-images.githubusercontent.com/102715716/176637658-3d5a586b-2dd2-476b-8b5f-2cf2909347ac.jpg)
 ![KakaoTalk_20220630_173426010](https://user-images.githubusercontent.com/102715716/176637667-35c35b7e-adb6-4662-b89e-c8524e68bcf9.jpg)
 ![KakaoTalk_20220630_180008942](https://user-images.githubusercontent.com/102715716/176637692-ac809f0c-23cf-4c0d-a90c-63435a3d0343.jpg)
 
-
-
-
-6. 사용자 수행 흐름도
+<p style= "font-size:18px; font-weight:bold;";>6. 사용자 수행 흐름도<br></p>
 <사용자>
 차량 위치 확인 -> 차량에 부착한 GPS 모듈로 차량 위치를 확보하고 사용자의 휴대전화에 위치를 
 파악하여 두 객체의 위치를 구글맵에 마커로 띄워 사용자에게 보여줌으로서 사용자가 차량의 위치를
