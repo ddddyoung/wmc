@@ -31,11 +31,12 @@
 
 
 <p style= "font-size:18px; font-weight:bold;";>5. <br></p>
+    
 ![KakaoTalk_20220630_173420409](https://user-images.githubusercontent.com/102715716/176637442-66d36f3d-a4dd-45b7-b6a0-db752004c153.jpg)
 ![KakaoTalk_20220630_173422338](https://user-images.githubusercontent.com/102715716/176637554-e49cff9b-25d9-41ea-bcbb-6db2a03f3bae.jpg)
 ![KakaoTalk_20220630_173424220](https://user-images.githubusercontent.com/102715716/176637658-3d5a586b-2dd2-476b-8b5f-2cf2909347ac.jpg)
 ![KakaoTalk_20220630_173426010](https://user-images.githubusercontent.com/102715716/176637667-35c35b7e-adb6-4662-b89e-c8524e68bcf9.jpg)
-![KakaoTalk_20220630_180008942](https://user-images.githubusercontent.com/102715716/176637692-ac809f0c-23cf-4c0d-a90c-63435a3d0343.jpg)
+![KakaoTalk_20220630_180008942](https://user-images.githubusercontent.com/102715716/176637692-ac809f0c-23cf-4c0d-a90c-63435a3d0343.jpg)<br>
 
 <p style= "font-size:18px; font-weight:bold;";>6. 사용자 수행 흐름도<br></p>
 <사용자>
